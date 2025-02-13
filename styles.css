@@ -108,7 +108,7 @@ main {
     margin-bottom: 2rem;
 }
 
-.hero button {
+.hero a {
     padding: 0.7rem 2rem;
     background: #ff6f61;
     color: #fff;
@@ -118,7 +118,7 @@ main {
     transition: background 0.3s ease;
 }
 
-.hero button:hover {
+.hero a:hover {
     background: #e05d50;
 }
 
