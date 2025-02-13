@@ -68,7 +68,7 @@ document.getElementById('whatsappForm').addEventListener('submit', function (e) 
     const message = `Name: ${name}%0AEmail: ${email}%0APhone: ${phone}%0AAddress: ${address}`;
 
     // Replace with your WhatsApp number (include country code, e.g., +1 for USA)
-    const whatsappNumber = '+1234567890';
+    const whatsappNumber = '+6285773009666';
 
     // Open WhatsApp with pre-filled message
     window.open(`https://wa.me/${whatsappNumber}?text=${message}`, '_blank');
